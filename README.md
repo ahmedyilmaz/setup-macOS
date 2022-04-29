@@ -4,11 +4,11 @@ base macOS counfiguration
 
 Base setup for after fresh macOS install
 
-[Xcode](https://developer.apple.com/xcode/)
-[install predefined setup](https://github.com/ahmedyilmaz/setup-macOS/blob/main/install-macos-beast.sh)
+- [Xcode](https://developer.apple.com/xcode/)
+- [Install Predefined Apps](https://github.com/ahmedyilmaz/setup-macOS/blob/main/install-macos-beast.sh)
 
 ## Xcode Editor Theme
-I use a my own theme [beast](https://github.com/ahmedyilmaz/setup-macOS/blob/main/beast.xccolortheme)
+I use a my own theme based on High Contrast(Dark) [beast](https://github.com/ahmedyilmaz/setup-macOS/blob/main/beast.xccolortheme)
 
 ```bash
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
