@@ -5,6 +5,7 @@ base macOS counfiguration
 Base setup for after fresh macOS install
 
 - [Xcode](https://developer.apple.com/xcode/)
+- <a id="raw-url" href="https://github.com/ahmedyilmaz/setup-macOS/blob/main/install-macos-beast.sh">Install.sh For Predefined Apps</a>
 - [Install.sh For Predefined Apps](https://github.com/ahmedyilmaz/setup-macOS/blob/main/install-macos-beast.sh)
 
 ## Xcode Editor Theme
