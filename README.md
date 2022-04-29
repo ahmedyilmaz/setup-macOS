@@ -8,7 +8,7 @@ Base setup for after fresh macOS install
 - [Install.sh For Predefined Apps](https://github.com/ahmedyilmaz/setup-macOS/blob/main/install-macos-beast.sh)
 
 ## Xcode Editor Theme
-I use a my own theme based on High Contrast(Dark) [beast](https://github.com/ahmedyilmaz/setup-macOS/blob/main/beast.xccolortheme)
+I use a my own theme based on High Contrast(Dark) [beast](https://github.com/ahmedyilmaz/setup-macOS/blob/main/Beast.xccolortheme)
 
 ```bash
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
