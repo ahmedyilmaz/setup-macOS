@@ -14,8 +14,7 @@ I use a my own theme based on High Contrast(Dark) [beast](https://github.com/ahm
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 ```
 
-## iterm2 & fish configuration
-
+[**iterm2 & fish configuration**](https://lobster1234.github.io/2017/04/08/setting-up-fish-and-iterm2/)
 
 --------------------------------------------------------------------------------------------------------
 
@@ -30,4 +29,6 @@ I use a my own theme based on High Contrast(Dark) [beast](https://github.com/ahm
 ```bash
   sudo gem install cocoapods 
 ```
+
+
 
