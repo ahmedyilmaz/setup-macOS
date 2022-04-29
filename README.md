@@ -6,6 +6,7 @@ Base setup for after fresh macOS install
 
 - [Xcode](https://developer.apple.com/xcode/)
 - [Install.sh For Predefined Apps & Packages](https://github.com/ahmedyilmaz/setup-macOS/blob/main/install-macos-beast.sh)
+- [**iterm2 & fish configuration**](https://lobster1234.github.io/2017/04/08/setting-up-fish-and-iterm2/)
 
 ## Xcode Editor Theme
 I use a my own theme based on High Contrast(Dark) [beast](https://github.com/ahmedyilmaz/setup-macOS/blob/main/Beast.xccolortheme)
@@ -13,9 +14,6 @@ I use a my own theme based on High Contrast(Dark) [beast](https://github.com/ahm
 ```bash
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 ```
-
-[**iterm2 & fish configuration**](https://lobster1234.github.io/2017/04/08/setting-up-fish-and-iterm2/)
-
 --------------------------------------------------------------------------------------------------------
 
 [**Homebrew**](http://brew.sh/)
